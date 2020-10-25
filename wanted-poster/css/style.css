@@ -137,8 +137,7 @@ figcaption {padding-top:.5rem;
 
 /* Footer */
 
-footer {text-transform: uppercase;
-		padding:1rem;
+footer {padding:1rem;
 		border-top-width:2rem;
 		border-top-style:solid;
 		border-top-color:#333;
