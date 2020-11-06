@@ -196,7 +196,7 @@ nav a {
 	text-align: center;
 	font-size:1.125rem;
 	margin-bottom:1.5rem;
-	border-style:solid, 0.063rem, color:#33658A;
+	border-style:solid;
 }
 
 nav a:focus,
