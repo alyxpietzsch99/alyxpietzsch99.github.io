@@ -101,7 +101,7 @@ html {
 }
 
 h1 {
-	font-family: Josefinslab, Arial, sans-serif;
+	font-family: Josefinslab, Arial, serif;
 	letter-spacing: 0.125rem;
 	font-size:3.75rem;
 	margin:1.125rem;
@@ -109,14 +109,14 @@ h1 {
 }
 
 h2{
-	font-family: Josefinslab, Arial, sans-serif;
+	font-family: Josefinslab, Arial, serif;
 	letter-spacing: 0.125rem;
 	font-size:1.5rem;
 	
 }
 
 h2 + p {
-	font-family: Josefinslab, Arial, sans-serif;
+	font-family: Josefinslab, Arial, serif;
 	letter-spacing: 0.125rem;
 	font-size:1.5rem;
 	
@@ -127,7 +127,7 @@ h2 + p {
 }
 
 p {
-	font-family: Josefinslab, Arial, sans-serif;
+	font-family: Josefinslab, Arial, serif;
 	font-size:0.75rem;
 	letter-spacing:0.031rem;
 	word-spacing:0.125rem;
@@ -140,13 +140,13 @@ li{font-family: Josefinslab, Arial, sans-serif;
 }
 
 figcaption{
-	font-family: Josefinslab, Arial, sans-serif;
+	font-family: Josefinslab, Arial, serif;
 	font-size:0.75rem;
 	margin-bottom:2rem;
 }
 /* Link Styling */
 
-a{font-family: Josefinslab, Arial, sans-serif;
+a{font-family: Josefinslab, Arial, serif;
 	text-decoration: none;}
 
 a:link,
@@ -160,7 +160,7 @@ a:hover {
 }
 /* List Styling */
 
-ul {font-family: Josefinslab, Arial, sans-serif;
+ul {font-family: Josefinslab, Arial, serif;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	margin-left: 0rem;
@@ -168,7 +168,7 @@ ul {font-family: Josefinslab, Arial, sans-serif;
 	list-style-type: square;
 }
 
-ol {font-family: Josefinslab, Arial, sans-serif;
+ol {font-family: Josefinslab, Arial, serif;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	margin-left: 0rem;
