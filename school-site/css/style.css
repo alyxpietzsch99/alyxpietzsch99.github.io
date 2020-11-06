@@ -183,19 +183,9 @@ ol {
 nav {
 	padding-left: 0rem;
 	margin-top:0.25rem;
-	text-decoration: none;
-	display: inline-block;
-	width:100%;
-	line-height:3;
-	text-align: center;
-	font-size:1.125rem;
-	margin-bottom:1.5rem;
-	border-style:solid, 0.063rem, color:#33658A;
 }
 
 nav a {
-	padding-left: 0rem;
-	margin-top:0.25rem;
 	text-decoration: none;
 	display: inline-block;
 	width:100%;
