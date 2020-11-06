@@ -183,7 +183,7 @@ ol {
 nav {
 	padding-left: 0rem;
 	margin-top:0.25rem;
-	outline:none;
+	text-decoration: none;
 	display: inline-block;
 	width:100%;
 	line-height:3;
@@ -196,7 +196,7 @@ nav {
 nav a {
 	padding-left: 0rem;
 	margin-top:0.25rem;
-	outline:none;
+	text-decoration: none;
 	display: inline-block;
 	width:100%;
 	line-height:3;
