@@ -127,24 +127,27 @@ h2 + p {
 }
 
 p {
+	font-family: Josefinslab, Arial, sans-serif;
 	font-size:0.75rem;
 	letter-spacing:0.031rem;
 	word-spacing:0.125rem;
 }
 
-li{
+li{font-family: Josefinslab, Arial, sans-serif;
 	font-size:0.75rem;
 	letter-spacing:0.031rem;
 	word-spacing:0.125rem;
 }
 
 figcaption{
+	font-family: Josefinslab, Arial, sans-serif;
 	font-size:0.75rem;
 	margin-bottom:2rem;
 }
 /* Link Styling */
 
-a{outline:none;}
+a{font-family: Josefinslab, Arial, sans-serif;
+	text-decoration: none;}
 
 a:link,
 a:visited {
