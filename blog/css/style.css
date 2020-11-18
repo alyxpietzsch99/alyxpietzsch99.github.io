@@ -97,7 +97,7 @@ figcaption {
 }
 
 nav {
-    float: left;
+    float:;
     width:11.25rem;
 }
 
@@ -117,28 +117,20 @@ header, footer {
   border-bottom: .125rem solid #33658A;
 }
 @font-face {
-	font-family:Monetserrat;
-	src: url(../fonts/montserrat-regular.ttf) format('truetype');
+	font-family:Lato;
+	src: url(../fonts/lato-regular.ttf) format('truetype');
 	font-weight:normal;
 	font-style:normal;
 }
-@font-face {
-	font-family:Josefinslab;
-	src:url(../fonts/josefinslab-regular.ttf) format('truetype');
-	font-weight:normal;
-	font-style:normal;
-}
-
-
 
 /* Typography Styles */
 
 html {
-	font-family: Montserrat, Arial, sans-serif;
+	font-family: Lato, Arial, sans-serif;
 }
 
 h1 {
-	font-family: Josefinslab, Garamond, serif;
+	font-family: Lato, Garamond, serif;
 	letter-spacing: 0.125rem;
 	font-size:3.75rem;
 	margin:1.125rem;
@@ -146,14 +138,14 @@ h1 {
 }
 
 h2{
-	font-family: Josefinslab, Garamond, serif;
+	font-family: Lato, Garamond, sans-serif;
 	letter-spacing: 0.125rem;
 	font-size:1.5rem;
 	
 }
 
 h2 + p {
-	font-family: Josefinslab, Garamond, serif;
+	font-family: Lato, Garamond, sans-serif;
 	letter-spacing: 0.125rem;
 	font-size:1.5rem;
 	
@@ -164,26 +156,26 @@ h2 + p {
 }
 
 p {
-	font-family: Josefinslab, Garamond, serif;
+	font-family: Lato, Garamond, sans-serif;
 	font-size:0.75rem;
 	letter-spacing:0.031rem;
 	word-spacing:0.125rem;
 }
 
-li{font-family: Josefinslab, Garamond, serif;
+li{font-family: Lato, Garamond, sans-serif;
 	font-size:0.75rem;
 	letter-spacing:0.031rem;
 	word-spacing:0.125rem;
 }
 
 figcaption{
-	font-family: Josefinslab, Garamond, serif;
+	font-family: Lato, Garamond, sans-serif;
 	font-size:0.75rem;
 	margin-bottom:2rem;
 }
 /* Link Styling */
 
-a{font-family: Josefinslab, Garamond, serif;
+a{font-family: Lato, Garamond, sans-serif;
 	text-decoration: none;}
 
 a:link,
@@ -197,7 +189,7 @@ a:hover {
 }
 /* List Styling */
 
-ul {font-family: Josefinslab, Garamond, serif;
+ul {font-family: Lato, Garamond, sans-serif;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	margin-left: 0rem;
@@ -205,7 +197,7 @@ ul {font-family: Josefinslab, Garamond, serif;
 	list-style-type: square;
 }
 
-ol {font-family: Josefinslab, Garamond, serif;
+ol {font-family: Lato, Garamond, sans-serif;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	margin-left: 0rem;
