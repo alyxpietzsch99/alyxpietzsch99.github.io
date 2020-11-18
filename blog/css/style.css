@@ -97,7 +97,7 @@ figcaption {
 }
 
 nav {
-    float:;
+    float:none;
     width:11.25rem;
 }
 
@@ -215,6 +215,7 @@ ol {font-family: Lato, Garamond, sans-serif;
 nav {
 	padding-left: 0rem;
 	margin-top:0.25rem;
+	display: inline;
 }
 
 nav a {
